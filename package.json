@@ -1,0 +1,27 @@
+{
+  "name": "webrtcvideobroadcast",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/it7900142/webrtcvideobroadcast.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {
+    "eslint": "7.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/it7900142/webrtcvideobroadcast/issues"
+  },
+  "homepage": "https://github.com/it7900142/webrtcvideobroadcast#readme"
+}
